@@ -22,7 +22,7 @@ public class gameController : MonoBehaviour
 
     }
 
-    void abc()
+    void a()
     {
 
     }
