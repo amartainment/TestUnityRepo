@@ -16,6 +16,10 @@ public class gameController : MonoBehaviour
     {
         
     }
+    void diplomacy(){
+    //bla bla bla
+    
+    }
 
     void BaseBuilderCode()
     {
