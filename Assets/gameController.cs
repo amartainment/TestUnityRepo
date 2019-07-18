@@ -21,4 +21,9 @@ public class gameController : MonoBehaviour
     {
 
     }
+
+    void abc()
+    {
+
+    }
 }
